@@ -1,11 +1,11 @@
 {
-  "name": "openseablockchainclone",
+  "name": "BETTASea",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Rafeh Qazi <qazi@cleverprogrammer.com>",
-  "license": "UNLICENSED",
+  "author": "BETTA Nakomoto <abettameta@protonmail.com>",
+  "license": "MIT",
   "scripts": {
     "start": "sanity start",
     "build": "sanity build"
